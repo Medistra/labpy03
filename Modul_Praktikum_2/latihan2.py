@@ -1,3 +1,5 @@
+print("Program menampilkan status gaji karyawan")
+
 gaji = int(input("Masukann gaji:"))
 berkeluarga = (False, True)[input("Sudah berkeluarga? (Y/T)") == "Y"]
 punya_rumah = (False, True)[input("Punya rumah? (Y/T)") == "Y"]

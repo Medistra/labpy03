@@ -1,3 +1,5 @@
+print("Program membandingkan 3 input bilangan")
+
 a = int(input("Masukan bilangan A: "))
 b = int(input("Masukan bilangan B: "))
 c = int(input("Masukan bilangan C: "))

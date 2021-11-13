@@ -1,3 +1,5 @@
+print("Program menentukan nilai akhir")
+
 nama = input("Masukan nama:")
 uts = input("Masukan nilai UTS:")
 uas = input("Masukan nilai UAS:")
