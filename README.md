@@ -24,7 +24,7 @@ setelah membuat program, kemudian "RUN" program dan masukan nilai N (Berapa bany
 
 ### Berikut contoh hasil dari prrogram saat dijalankan:
 
-![Gambar 2](screenshot/ss2.png)
+![Gambar 2](Modul_Praktikum_3/screenshot3/ss2.png)
 
 SELESAI
 
@@ -55,13 +55,13 @@ Masukan program untuk menampilkan bilangann terbesar dari sebuah data yang di in
 
 ### Berikut contoh gambar programnya:
 
-![Gambar 3](screenshot/ss3.png)
+![Gambar 3](Modul_Praktikum_3/screenshot3/ss3.png)
 
 Setelah membuat program, kemudian "RUN" program dan masukan  nilai yang di  inginkan satu persatu. Data akan langsung terhenti dan akan menampilkan hasil jika telah menginput nilai 0 (nol).
 
 ### Berikut contoh dari hasil program setelah dijalankan:
 
-![Gambar 4](screenshot/ss4.png)
+![Gambar 4](Modul_Praktikum_3/screenshot3/ss4.png)
 
 SELESAI
 
@@ -104,10 +104,10 @@ print("Jumlah Laba Selama 8 Bulan: ",z) - menampilkan hasil dari jumlah laba
 
 ### Berikut contoh gambar perogramnya:
 
-![Gambar 5](screenshot/ss5.png)
+![Gambar 5](Modul_Praktikum_3/screenshot3/ss5.png)
 
 Setelah membuat program, kemudian "RUN" program dan masukan  jumlah uang modal awal yanng telah di tentukan. setelah memasukan jumlah uang modal maka data akan menghitung hasil persentasi sesuai dengan program.
 
 ### Berikut contoh hasil dari program setelah di jalankan:
 
-![Gambar 6](screenshot/ss6.png)
+![Gambar 6](Modul_Praktikum_3/screenshot3/ss6.png)
