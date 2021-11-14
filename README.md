@@ -107,7 +107,7 @@ Masukan program untuk menampilkan status gaji karyawan seperti berikut
 
 #### Berikut contoh programnya
 
-![Gambar 9](Modul_praktikum_2/screenshot2/ss3.png)
+![Gambar 9](Modul_Praktikum_2/screenshot2/ss3.png)
 
 
 
