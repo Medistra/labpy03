@@ -1,6 +1,71 @@
 # labpy03 (Algoritma/ Penjelasan)
 
-# Modul_Praktiikum_3
+# Modul_Praktikum_2
+## latihan1
+### Program menentukann nilai akhir
+
+#### penjelasan alur program
+Masukan program untuk menentukann nilai akhir
+
+1. print("Program menentukan nilai akhir") - adalah perintah untuk menampilkan judulnya.
+
+2. nama = input("Masukan nama:") - adalah perintah untuk menginput nama
+
+3. uts = input("Masukan nilai UTS:") - adalah perintah untuk menginput nilai  UTS
+
+4. uas = input("Masukan nilai UAS:") -  adalah perintah untuk menginput nilai UAS
+
+5. tugas = input("Masukan nilai tugas:") - adalah perintah unntuk menginput nilai tugas
+
+6. akhir = (int(tugas) * .2) + (int(uts) * .4) + (int(uas) * .4) - adalah perintah untuk menghitung nilai akhir
+
+7. keterangan = ("TIDAK LULUS","LULUS")[akhir> 60.0] - adalah perintah untuk mengeluarkan pernyataan lulus atau tidak lulus
+
+8. if akhir > 80: - adalah perintah untuk tipe data if atau jika, 80 adalah input nilai minimal untuk integer
+
+9. huruf = "A" - adalah program untuk menampilkan huruf "A" jika nilai yang dimasukan lebih dari 80
+
+10. elif akhir > 70: - adalah perintah untuk tipe data elif atau alternatif, 70 adalah input niai minimal untuk integer 
+
+11. huruf = "B" - adalah program untuk menampilkan huruf "B" jika nilai yang dimasukan lebih dari 70 dan kurang dari 80
+
+11. elif akhir > 50: - adalah perintah untuk tipe data elif atau  alternatif, 50 adalah input nilai minimal untuk integer
+
+12. huruf = "C" - adalah proogram unntuk menampilkan huruf "C" jika nilai yang di masukan lebih dari 50 dan kurang dari 70
+
+13. elif akhir > 40: - addalah perintah untuk tipe data elif atau alternatif, 40 adalah input nilai minimal untuk integer
+
+14. huruf = "D" - adalah program untuk menampilkan huruf "D" jika nilai yang di masukan lebih dari 40 dan kurang dari 50
+
+15. else: - adalah perintah untuk tipe data else atau lain
+
+16. huruf = "E" - adalah program unntuk menampilkann huruf "E" jika nilai yang di masukan kurang dari 40
+
+17. print("\nNama       :",nama) - adalah perintah unntukk menampilkan nama yang telah di input
+
+18. print("Nilai UTS    :",uts) - adalah perintah untuk menampilkan nilai UTS yang telah di input
+
+19. print("Nilai UAS    :",uas) - adalah perintah untuk menampilkam nilai UAS yang telah di input
+
+20. print("Nilai Tugas  :",tugas) - adalah perintahh untuk menampilkan nilai tugas yang telah di input
+
+21. print("Nilai Akhir  :",akhir) - adalah perintah untuk menampilkan nilai akhir sesuai perhitungan yang telah dibuat
+
+22. print("\nNilai Huruf    :",huruf) - adalah perintah untuk menampilkan huruf sesuai dengan nilai akhir yang keluar
+
+23. print("Keterangan   :",keterangan) - adalah perintah untuk menampilkan keterangan LULUS atau TIDAK LULUS
+
+#### Berikut contoh gambar programnya
+
+![Gambar 7](Modul_Praktikum_2/screenshot2/ss1.png)
+
+
+
+
+
+
+
+# Modul_Praktikum_3
 ## latihan1
 ### Program untuk menampilkan n bilangan acak yanng lebih kecil dari 0.5
 
