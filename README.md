@@ -59,6 +59,79 @@ Masukan program untuk menentukann nilai akhir
 
 ![Gambar 7](Modul_Praktikum_2/screenshot2/ss1.png)
 
+setelah membuat program, kemudian "RUNN" program dan masukan nama, nilai UTS, nilai UAS, dan nilai tugas. lalu program akan menampilkan hasil nilai akhir, huruf sesuai nilai akhir, dan keterangan LULUS atau TIDAK LULUS.
+
+#### Berikut contoh hassil dari program saat dijalankan
+
+![Gambar 8](Modul_Praktikum_2/screenshot2/ss2.png)
+
+SELESAI
+
+## latihan2
+### Program untuk menampilkan status gaji karyawan
+
+#### penjelasan alur program:
+Masukan program untuk menampilkan status gaji karyawan seperti berikut
+
+1. print("Program menampilkan status gaji karyawan") - adalah perintah untuk menampilkann judulnnya
+
+2. gaji = int(input("Masukann gaji:")) - adalah perintah untuk menginput gaji
+
+3. berkeluarga = (False, True)[input("Sudah berkeluarga? (Y/T)") == "Y"] - adalah program untuk menentukan status berkeluarga dengan ketentuan False, True dan menampilkan pertanyaan "sudah berkeluarga?" lalu dinyatakan dengan pilihan Y/T
+
+4. punya_rumah = (False, True)[input("Punya rumah? (Y/T)") == "Y"] - adalah program untuk menentukan status punya_rumah dengan ketentuan False, True dan menampilkan pertanyaan "punya rumah?" lalu dinyatakan dengan piliham Y/T
+
+5. if gaji > 3000000: - adalah perintah untuk tipe data if atau jika gaji diatas 3000000
+
+6.     print ("Gaji sudah diatass UMR") - adalah perintah untuk menampilkan hasil jika gaji yang diinput lebih dari 3000000
+
+7.     if berkeluarga: - adalah perintah untuk tipe data if atau jika sudah berkeluarga
+
+8.      print ("- Wajib ikutan asuransi dan menabung untuk pensiun") - adalah perintah untuk menampilkan hasil jika sudah berkeluarga
+
+9.     else: - adalah perintah unntuk tipe data else atau lain
+
+10.         print ("- Tidak perlu ikutan asuransi") -adalah perintah untuk menampilkan hasil jika belum berkeluarga atau hasil lain yang diinput
+
+11.     if punya_rumah: - adalah perintah untuk tipe data if atau jika sudah punya rummah
+
+12.         print ("- Wajib bayar pajakk rummah") - adalah perintah untuk menampilkan hasil jika sudah punya rumah
+
+13.     else: - adalah perintah untuk tipe data else atau lain
+
+14.         print ("- Tidak wajib bayar pajak rumah") - adalah perintah untuk menampilkan hasil jika belum punya rumah atau hasil lain yang diinput
+
+15. else: - adalah perintah untuk tipe data else atau lain
+
+16.     print ("gaji belum UMR") - adalah perintah untuk menampilkan hasil langsung jika gaji yang diinput dibawah 3000000
+
+#### Berikut contoh programnya
+
+![Gambar 9](Modul_praktikum_2/screenshot2/ss3.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -96,7 +169,7 @@ SELESAI
 
 
 ## latihan2
-### Buat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan
+### program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan
 
 #### Penjelasan alur program:
 Masukan program untuk menampilkan bilangann terbesar dari sebuah data yang di input seperti berikut
