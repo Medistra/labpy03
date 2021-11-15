@@ -179,7 +179,7 @@ Masukan program untuk mencari bilangan terbesar dari 3 bilangan
 
 #### Berikut contoh programnya
 
-![Gambar 13](Modul_Praktikum2/screenshot2/ss7.png)
+![Gambar 13](Modul_Praktikum_2/screenshot2/ss7.png)
 
 setelah membuat program, kemudian "RUN" program dan input bilangan pertama, kedua, dan ketiga. maka program akan menampilkan bilangan yang terbesar beserta nilainya
 
