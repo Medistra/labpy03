@@ -133,7 +133,7 @@ Masukan program untuk membandingkan 3 input bilangan
 
 5. if a+b == c or b+c == a or c+a == b: - adalah perintah untuk tipe data if atau jika hitungan sesuai
 
-6.     print("Benar") - adalah untuk menampilkan hasil jika benar
+6.     print("Benar") - adalah perintah untuk menampilkan hasil jika benar
 
 7. else: - adalah perintah untuk tipe data else atau lain
 
@@ -143,13 +143,51 @@ Masukan program untuk membandingkan 3 input bilangan
 
 ![Gambar 11](Modul_Praktikum_2/screenshot2/ss5.png)
 
-setelah membuat program, kemudian "RUN" program dan masukan bilangan A,B,dan C sesuai ketentuan program if. jika tidak sesuai ketentuan if maka hasil adalah else.
+setelah membuat program, kemudian "RUN" program dan input bilangan A,B,dan C sesuai ketentuan program if. jika tidak sesuai ketentuan if maka hasil adalah else.
 
 #### Berikut contoh hasil dari program saat dijalankan
 
-![Gambar 12](Modul_Praktikum_2/screenshot2/ss5.png)
+![Gambar 12](Modul_Praktikum_2/screenshot2/ss6.png)
 
+SELESAI
 
+## praktikum2
+### program mencari bilangan terbesar dari 3 bilangan
+
+#### penjelasan alur program
+Masukan program untuk mencari bilangan terbesar dari 3 bilangan
+
+1. print("Program Mencari Bilangan Terbesar Dari 3 Bilangan") - adalah perintah untuk menampilkan judul 
+
+2. a = int(input("Masukkan Bilangan Pertama: ")) - adalah perintah untuk menginput bilangan pertama
+
+3. b = int(input("Masukkan Bilangan Kedua: ")) - adalah perinah untuk menginput bilangan kedua
+
+4. c = int(input("Masukkan Bilangan Ketiga: ")) - adalah perintah untuk menginput bilangan ketiga 
+
+5. if a > b > c: - adalah perintah untuk tipe data if atau jika a > b > c
+
+6.     print("Bilangan Pertama Adalah Bilangan Terbesar = %s" % a) - adalah perintah untuk menampilkan bilangan pertama jika bilangan pertama adalah bilangan terbesar
+
+7. elif b> c: - adalah perintah untuk tipe data elif ayau alternatif
+
+8.     print("Bilangan Kedua Adalah Bilangan Terbesar = %s" % b) - adalah perintah untuk menampilkan bilangan kedua jika bilangan kedua adalah bilangan terbesar
+
+9. else: - adalah perintahh untuk tipe data else atau lain
+
+10.     print("Bilangan Ketiga Adalah Bilangan Terbesar = %s" % c) - adalah perintah untuk menampilkan bilangan ketiga jika bilangan ketiga adalah bilangan terbesar
+
+#### Berikut contoh programnya
+
+![Gambar 13](Modul_Praktikum2/screenshot2/ss7.png)
+
+setelah membuat program, kemudian "RUN" program dan input bilangan pertama, kedua, dan ketiga. maka program akan menampilkan bilangan yang terbesar beserta nilainya
+
+#### Berikut contoh hasil dari program saat dijalankan
+
+![Gambar 14](Modul_Praktikum_2/screenshot2/ss8.png)
+
+SELESAI
 
 
 
