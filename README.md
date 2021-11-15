@@ -117,6 +117,37 @@ setelah membuat program, kemudian "RUN" program dan masukan nominal gaji, lalu p
 
 SELESAI
 
+## latihan3
+### program membandingkan 3 input bilangan
+
+#### penjelasan alur program:
+Masukan program untuk membandingkan 3 input bilangan
+
+1. print("Program membandingkan 3 input bilangan") - adalah perintah unntuk menampilkan judulnya
+
+2. a = int(input("Masukan bilangan A: ")) - adalah perintah untuk menginput bilangan A
+
+3. b = int(input("Masukan bilangan B: ")) - adalah perintah untuk menginput bilangan B
+
+4. c = int(input("Masukan bilangan C: ")) - adalah perintah untuk menginput bilangan C
+
+5. if a+b == c or b+c == a or c+a == b: - adalah perintah untuk tipe data if atau jika hitungan sesuai
+
+6.     print("Benar") - adalah untuk menampilkan hasil jika benar
+
+7. else: - adalah perintah untuk tipe data else atau lain
+
+8.     print("Salah") - adalah perintah untuk menampilkan hasil lain jika input hasilnya tidak benar
+
+#### Berikut contoh programnya
+
+![Gambar 11](Modul_Praktikum_2/screenshot2/ss5.png)
+
+setelah membuat program, kemudian "RUN" program dan masukan bilangan A,B,dan C sesuai ketentuan program if. jika tidak sesuai ketentuan if maka hasil adalah else.
+
+#### Berikut contoh hasil dari program saat dijalankan
+
+![Gambar 12](Modul_Praktikum_2/screenshot2/ss5.png)
 
 
 
