@@ -23,23 +23,23 @@ Masukan program untuk menentukann nilai akhir
 
 8. if akhir > 80: - adalah perintah untuk tipe data if atau jika, 80 adalah input nilai minimal untuk integer
 
-9. huruf = "A" - adalah program untuk menampilkan huruf "A" jika nilai yang dimasukan lebih dari 80
+9.     huruf = "A" - adalah program untuk menampilkan huruf "A" jika nilai yang dimasukan lebih dari 80
 
 10. elif akhir > 70: - adalah perintah untuk tipe data elif atau alternatif, 70 adalah input niai minimal untuk integer 
 
-11. huruf = "B" - adalah program untuk menampilkan huruf "B" jika nilai yang dimasukan lebih dari 70 dan kurang dari 80
+11.     huruf = "B" - adalah program untuk menampilkan huruf "B" jika nilai yang dimasukan lebih dari 70 dan kurang dari 80
 
 11. elif akhir > 50: - adalah perintah untuk tipe data elif atau  alternatif, 50 adalah input nilai minimal untuk integer
 
-12. huruf = "C" - adalah proogram unntuk menampilkan huruf "C" jika nilai yang di masukan lebih dari 50 dan kurang dari 70
+12.     huruf = "C" - adalah proogram unntuk menampilkan huruf "C" jika nilai yang di masukan lebih dari 50 dan kurang dari 70
 
 13. elif akhir > 40: - addalah perintah untuk tipe data elif atau alternatif, 40 adalah input nilai minimal untuk integer
 
-14. huruf = "D" - adalah program untuk menampilkan huruf "D" jika nilai yang di masukan lebih dari 40 dan kurang dari 50
+14.     huruf = "D" - adalah program untuk menampilkan huruf "D" jika nilai yang di masukan lebih dari 40 dan kurang dari 50
 
 15. else: - adalah perintah untuk tipe data else atau lain
 
-16. huruf = "E" - adalah program unntuk menampilkann huruf "E" jika nilai yang di masukan kurang dari 40
+16.     huruf = "E" - adalah program unntuk menampilkann huruf "E" jika nilai yang di masukan kurang dari 40
 
 17. print("\nNama       :",nama) - adalah perintah unntukk menampilkan nama yang telah di input
 
@@ -108,6 +108,17 @@ Masukan program untuk menampilkan status gaji karyawan seperti berikut
 #### Berikut contoh programnya
 
 ![Gambar 9](Modul_Praktikum_2/screenshot2/ss3.png)
+
+setelah membuat program, kemudian "RUN" program dan masukan nominal gaji, lalu program akan menampilkan dua pertanyaan dengan pilihan Y/T, jika gaji yang dimasukan diatas 3000000 maka akan menampilkan hasil keterangan. jika dibawah 3000000 maka langsung menampilkan bahwa gaji belum UMR.
+
+#### Berikut contoh hasil dari program saat dijalankan
+
+![Gambar 10](Modul_Praktikum_2/screenshot2/ss4.png)
+
+SELESAI
+
+
+
 
 
 
