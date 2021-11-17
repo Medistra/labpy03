@@ -1,7 +1,7 @@
 # labpy03 (Algoritma/ Penjelasan)
 
 # Modul_Praktikum_1
-## latihan1
+## lab3_latihan1
 ### Program sederhana dengan input 2 buah bilangan
 
 #### Penjelasan alur program
