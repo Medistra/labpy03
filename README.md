@@ -1,5 +1,56 @@
 # labpy03 (Algoritma/ Penjelasan)
 
+# Modul_Praktikum_1
+## latihan1
+### Program sederhana dengan input 2 buah bilangan
+
+#### Penjelasan alur program
+Masukan program untuk menginput 2 buah bilangam
+
+1. print ("Program sederhana dengan input 2 buah bilangan") - adalah perintah untuk menampilkan judulnya
+
+2. a = int(input("Masukan bilangan pertama: ")) - adalah perintah untuk menginput bilangan pertama
+
+3. b = int(input("Masukan bilangan kedua: ")) - addalah perintah untuk menginput bilangan kedua
+
+4. if a > b: - adalah perintah untuk tipe data if atau jika bilangan pertama lebih besar dari bilangan kedua
+
+5.     print("Bilangan pertama adalah bilangan terbesar = %s" % a) - adalah perintah untuk menampilkan bilanngan yang terbesar yaitu bilangan pertama
+
+6. else: - adalah perintah untuk tipe data else atau lain
+
+7.     print("Bilangan kedua adalah bilangan terbesar = %s" % b) - adalah perintah untuk menampilkan bilangan yang terbesar yaitu bilangan kedua
+
+#### Berikut contoh programnya
+
+![Gambar 15](Modul_Praktikum_1/screenshot1/ss1.png)
+
+setelah membuat program, kemudian "RUNN" program dan masukan bilangan pertama , dan bilangan kedua. maka program akan menampilkan hasil bilangan yang terbesar
+
+#### Berikut contoh dari hasil program saat dijalankan
+
+![Gambar 16](Modul_Praktikum_1/screenshot1/ss2.png)
+
+SELESAI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Modul_Praktikum_2
 ## latihan1
 ### Program menentukann nilai akhir
