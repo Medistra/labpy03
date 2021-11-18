@@ -23,18 +23,41 @@ Masukan program untuk menginput 2 buah bilangan
 
 #### Berikut contoh gambar programnya
 
-![Gambar 15](Modul_Praktikum_1/screenshot1/ss5.png)
+![Gambar 15](Modul_Praktikum_1/screenshot1/ss1.png)
 
 setelah membuat program, kemudian "RUN" program maka program akan langsung menamppilkan hasilnya.
 
 #### Berikut contoh hassil dari program saat dijalankan
 
-![Gambar 16](Modul_Praktikum_1/screenshot1/ss6.png)
+![Gambar 16](Modul_Praktikum_1/screenshot1/ss2.png)
 
 SELESAI
 
+## lab3_latihan2
+### Program menampilkan n (bilangan acak) yang lebih dari 0.5
 
+#### Penjelasan alur program
+Masukan program untuk menampilkan n (bilangan acak) yang lebih dari 0.5
 
+1. print("Tampilkan n bilangan acak yang lebih kecil dari 0.5") - adalah perintah untuk menampilkan judulnya.
+
+2. jumlah = int(input("Masukkan jumlah n: ")) - adalah perintah untuk menginput nilai n tersebut
+
+3. import random - adalah perintah untuk mengimport built-in random yang telah tersedia di python
+
+4. for i in range(jumlah): - adalah perintah untuk i sebagai integer dalam baris jumlah
+
+5.    print("data ke", i+1,"=",(random.uniform(0.1,0.5))) - adalah perintah untuk menampilkan hasil yang telah di input dengan ketentuan random uniform mulai dari nilai 0.1 sampai 0.5
+
+#### Berikut contoh gambar programnya
+
+![Gambar 17](Modul_Praktikum_1/screenshot1/ss3.png)
+
+setelah membuat program, kemudian "RUN" program dan masukan nilai N (Berapa banyak  data yg di  inginkan). lalu program akan menampilkan hasil data bilangan acak yanng lebih  kecil dari 0.5 sebanyak yang anda inginkan.
+
+#### Berikut contoh hasil dari program saat di jalankan
+
+![Gambar 18](Modul_Praktikum_1/screenshot1/ss4.png)
 
 
 
