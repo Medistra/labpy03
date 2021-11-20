@@ -196,6 +196,11 @@ setelah membuat program, kemudian "RUNN" program dan masukan nama, nilai UTS, ni
 
 ![Gambar 8](Modul_Praktikum_2/screenshot2/ss2.png)
 
+#### Flowchartnya seperti berikut
+
+![Gambar 23](Modul_Praktikum_2/screenshot2/ss9.png)
+
+![Gambar 24](Modul_Praktikum_2/screenshot2/ss10.png)
 SELESAI
 
 
