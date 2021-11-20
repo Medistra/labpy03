@@ -33,6 +33,7 @@ setelah membuat program, kemudian "RUN" program maka program akan langsung menam
 
 SELESAI
 
+
 ## lab3_latihan2
 ### Program menampilkan n (bilangan acak) yang lebih dari 0.5
 
@@ -59,18 +60,75 @@ setelah membuat program, kemudian "RUN" program dan masukan nilai N (Berapa bany
 
 ![Gambar 18](Modul_Praktikum_1/screenshot1/ss4.png)
 
+SELESAI
 
 
+## latihan1
+### Program sederhana dengan input 2 buah bilangan
+
+### Penjelasan alur program
+Masukan program sederhana dengan input 2 buah bilangan
+
+1. print ("Program sederhana dengan input 2 buah bilangan") - adalah perintah untuk menampilkan judulnya
+
+2. a = int(input("Masukan bilangan pertama: ")) - adalah program untuk memasukan bilanngan pertama
+
+3. b = int(input("Masukan bilangan kedua: ")) - adalah program untuk memasukan bilangan kedua
+
+4. if a > b: - adalah perintah untuk tipe data if atau jika a lebih besar dari b
+
+5.     print("Bilangan pertama adalah bilangan terbesar = %s" % a) - adalah printah untuk menampilkan bilangan pertama jika bilangan pertama yang terbesar
+
+6. else: - adalah pertintah untuk tipe data else atau lain
+
+7.     print("Bilangan kedua adalah bilangan terbesar = %s" % b) - adalah perintah untuk menampilkan bilangan kedua jika bilangan kedua yang terbesar
+
+#### Berikut contoh gambar programnya
+
+![Gambar 19](Modul_Praktikum_1/screenshot1/ss5.png)
+
+setelah membuat program, kemudian "RUN" program dan masukan bilangan pertama dan juga bilangan kedua, lalu program akan menampilkan hasilnya yaitu bilangan terbesar dari bilangan yang di input
+
+#### Berikut contoh hasil dari program saat dijalankan
+
+![Gambar 20](Modul_Praktikum_1/screenshot1/ss6.png)
+
+SELESAI
 
 
+## latihan2
+### Program mengurutkan data berdasarkan input
 
+### Penjelasan alur programnya
+Masukan program mengurutkann data berdasarkan input
 
+1. print ("Program mengurutkan data berdasarkan input") - adalah perintah untuk menampilkan judulnya
 
+2. data = [] - adalah program untuk memasukan data
 
+3. for i in range (10): - adalah perintah untuk menampilkan berapa banyak jumlah data yang akan di input
 
+4.     x = int(input("Masukan bilangan: ")) - adalah perintah untuk memasukan bilangan
 
+5.     data.append(x) - adalah program untuk menambahkann data
 
+6. print ("data sebelum diurutkan: ",data) - adalah perintah untuk menampilkan data sebelum di urutkan
 
+7. print ("data sebelum diurutkan: ",data) - adalah program untuk mengurutkan data dari yang terkecil
+
+8. print("data setelah diurutkan: ",data) - adalah perintah untuk menampilkan data yang telah di urutkan
+
+#### Berikut contoh gambar programnya
+
+![Gambar 21](Modul_Praktikum_1/screenshot1/ss7.png)
+
+setelah membuat program, kemudian "RUN" program dan masukan bilangan sebanyak yang telah di tentukan, maka setelah itu program akan menampilkan hasil data yang belum di urutkan dan yang sudah di urutkan
+
+#### Berikut contoh hasil dari program saat di jalankan
+
+![Gambar 22](Modul_Praktikum_1/screenshot1/ss8.png)
+
+SELESAI
 
 
 # Modul_Praktikum_2
@@ -140,6 +198,7 @@ setelah membuat program, kemudian "RUNN" program dan masukan nama, nilai UTS, ni
 
 SELESAI
 
+
 ## latihan2
 ### Program untuk menampilkan status gaji karyawan
 
@@ -190,6 +249,7 @@ setelah membuat program, kemudian "RUN" program dan masukan nominal gaji, lalu p
 
 SELESAI
 
+
 ## latihan3
 ### program membandingkan 3 input bilangan
 
@@ -223,6 +283,7 @@ setelah membuat program, kemudian "RUN" program dan input bilangan A,B,dan C ses
 ![Gambar 12](Modul_Praktikum_2/screenshot2/ss6.png)
 
 SELESAI
+
 
 ## praktikum2
 ### program mencari bilangan terbesar dari 3 bilangan
@@ -261,34 +322,6 @@ setelah membuat program, kemudian "RUN" program dan input bilangan pertama, kedu
 ![Gambar 14](Modul_Praktikum_2/screenshot2/ss8.png)
 
 SELESAI
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # Modul_Praktikum_3
