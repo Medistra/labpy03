@@ -254,6 +254,10 @@ setelah membuat program, kemudian "RUN" program dan masukan nominal gaji, lalu p
 
 ![Gambar 10](Modul_Praktikum_2/screenshot2/ss4.png)
 
+#### Flowchartnya seperti berikut
+
+![Gambar 25](Modul_Praktikum_2/screenshot2/ss11.png)
+
 SELESAI
 
 
@@ -288,6 +292,10 @@ setelah membuat program, kemudian "RUN" program dan input bilangan A,B,dan C ses
 #### Berikut contoh hasil dari program saat dijalankan
 
 ![Gambar 12](Modul_Praktikum_2/screenshot2/ss6.png)
+
+#### Flowchartnya seperti berikut
+
+![Gambar 26](Modul_Praktikum_2/screenshot2/ss12.png)
 
 SELESAI
 
@@ -328,6 +336,9 @@ setelah membuat program, kemudian "RUN" program dan input bilangan pertama, kedu
 
 ![Gambar 14](Modul_Praktikum_2/screenshot2/ss8.png)
 
+#### Flowchartnya sebagai berikut
+
+![Gambar 27](Modul_Praktikum_2/screenshot2/ss13.png)
 SELESAI
 
 
